@@ -1,0 +1,1 @@
+window.ENV = {"NO_SENTRY":true,"NO_TRACK":true,"IS_FEAT_ABOARD":true,"IS_LEGACY_V7":true,"NO_FEAT_BOMX":true,"NO_FEAT_AIPPT":true,"NO_FEAT_DESIGN":true,"IS_ON_PREMISES":true}
